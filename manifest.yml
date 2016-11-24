@@ -1,0 +1,6 @@
+applications:
+- memory: 512M
+domain: mybluemix.net
+name: startup1
+host: startup1
+bluildpack: staticfile_buildpack
